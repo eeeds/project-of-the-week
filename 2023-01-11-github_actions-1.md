@@ -158,7 +158,7 @@ Datasets
 
 List of projects from our participants:
 
-* Project link 1
+* [Github-Actions-Project](https://github.com/eeeds/Github-Actions-Project)
 * Project link 2
 * ...
 * (Create a PR)
